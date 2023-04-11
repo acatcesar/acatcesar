@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Augusto Cesar
 
-- 🔭 Estou trabalhando hoje com projetos em Django 
-- 🌱 Estou estudando Node.js
+Um profissional multifacetado e criativo que tem paixão pelo mundo do trabalho. Como Analista de Sistemas e Desenvolvedor de Software, ajudo empresas a atingirem seus objetivos de negócios através de soluções personalizadas e eficazes. Também sou Consultor dos ERPs mais utilizados no Brasil, tendo ajudado muitas empresas a implementar e otimizar seus sistemas. Busco constantemente aprimorar minhas competências e estabelecer novas conexões para crescer profissionalmente e fazer a diferença na minha área de atuação.
+
+Sou um desenvolvedor apaixonado por Python e Django. Minha experiência inclui o desenvolvimento de aplicativos web, sistemas de gerenciamento de conteúdo e soluções personalizadas. Eu amo trabalhar com a simplicidade e elegância da linguagem Python, juntamente com o poderoso framework Django, para criar aplicativos escaláveis e robustos. Estou sempre buscando aprimorar minhas habilidades em programação e aprender novas tecnologias para aprimorar ainda mais minhas soluções.
 
 
 
